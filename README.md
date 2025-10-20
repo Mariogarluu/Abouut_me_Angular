@@ -1,4 +1,4 @@
-# 🚀 About Me - Angular Portfolio
+# 🚀 About Me - Angular
 
 [![Angular](https://img.shields.io/badge/Angular-19.2.0-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
