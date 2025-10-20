@@ -1,0 +1,12 @@
+<div style="padding: 20px;">
+    <h2>Home</h2>
+    <input
+      type="text"
+      placeholder="Escribe un nombre"
+      [(ngModel)]="nombre"
+      (keyup.enter)="mostrarNombre()"
+    />
+  
+    <p *ngIf="resultado">Has escrito: {{ resultado }}</p>
+  </div>
+  
